@@ -1,1 +1,1 @@
-{"Start...":"开启中..."}
+{"Xiaoming VPN":"小明VPN","Connected":"已连接","Start...":"开启中...","Share with friends":"分享给朋友","Disconnected":"已断开","About Xiaoming VPN":"关于小明VPN"}
