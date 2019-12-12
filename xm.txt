@@ -1,0 +1,33 @@
+{
+    "md": [
+        "ns01.iandroidapps.com",
+        "ns98.androidgithub.store",
+        "ns04.iandroidapps.com",
+        "ns34.eandroidsupport.com"
+    ],
+    "about": "https://gitithub.com/xm19/blob/master/",
+    "valk": "0",
+    "tips": "提示：VPN功能效耗电，不使用时请关闭。节点偶尔因特殊情况会不稳定，若无法使用请断开重连，感谢理解",
+    "tips_en": "Note: VPN consumes more electricity. Turn it off if not in use. It may unstable in Asia sometime. try to restart VPN if unavailable.",
+    "mco": "5",
+    "dlm": "0",
+    "mid": "G201903212058",
+    "msg": "维护不易，若喜欢的话，支持一下，谢谢~",
+    "mco_en": "10",
+    "mid_en": "G201903212058",
+    "msg_en": "If you like it, don't forget to support me, thx",
+    "aip": "U:UVjzB@sI1Ill1lM41khGJNJhYZNZNJXYp~hYZYXYNYZhh9qk6l2k",
+    "about_en": "https://gitithub.com/xm19/blob/master/en",
+    "org": [
+        "0G6g/Kk0sI1Ill1lM41khGJNJhYZNZNJXYpwZpkNpNXkXNlvGpAn.-",
+        "ZBZFrSNksI1Ill1lM41khGJNJhYZNZNJXYpwFYZppXNpJZBLw/rJlo",
+        "qTOAXHRAsI1Ill1lM41khGJNJhYZNZNJXYpwhpphZFFFpNGXwX36Za"
+    ],
+    "cls": [
+        "U0MF8l:bsI1Ill1lM41khGJNJhYZNZNJXYpwXXZZkYZZJpJhf557P4",
+        "hdMl1I0PsI1Ill1lM41khGJNJhYZNZNJXYpwNJFZYkkGkYbSn1TRUE",
+        "VjgjQt5GsI1Ill1lM41khGJNJhYZNZNJXYpwpNkYpkXZhpJqjav.7A"
+    ],
+    "share": "小明V.P.N免费帮您一键科学上网，马上下载：https://gitithub.com/xm19/blob/master",
+    "share_en": "Xiaoming VPN help you to access block sites using free VPN Servers. Download here: https://gitithub.com/xm19/blob/master/en"
+}
