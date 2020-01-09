@@ -1,33 +1,38 @@
 {
-    "md": [
-        "ns01.iandroidapps.com",
-        "ns98.androidgithub.store",
-        "ns04.iandroidapps.com",
-        "ns34.eandroidsupport.com"
-    ],
-    "about": "https://gitithub.com/xm19/blob/master/",
-    "valk": "0",
-    "tips": "提示：节点偶尔因特殊情况会不稳定，若无法使用请断开重连，感谢理解",
-    "tips_en": "Note: VPN consumes more electricity. Turn it off if not in use. It may unstable in Asia sometime. try to restart VPN if unavailable.",
-    "mco": "5",
-    "dlm": "2",
-    "mid": "G201903212058",
-    "msg": "维护不易，若喜欢的话，支持一下，谢谢~",
-    "mco_en": "10",
-    "mid_en": "G201903212058",
-    "msg_en": "If you like it, don't forget to support me, thx",
-    "aip": "irDxn109sI1Ill1lM41khGJNJhYZNZNJXYp~JZkJYZNkNkAYh9o.Od",
-    "about_en": "https://gitithub.com/xm19/blob/master/en",
-    "org": [
-        "NEBLI0qIsI1Ill1lM41khGJNJhYZNZNJXYpwZpFNpYFZXN1A2pnjXD",
-        "7T:OlhUksI1Ill1lM41khGJNJhYZNZNJXYpwFpGNNXJYGZdVl-vzC8",
-        ":tgn3:RvsI1Ill1lM41khGJNJhYZNZNJXYpwNFhGJNGXNFz:NNBnPN"
-    ],
-    "cls": [
-        ":qp4Tk.4sI1Ill1lM41khGJNJhYZNZNJXYpwNJkFkGYpZZdNPoq:AA",
-        "eX917:cxsI1Ill1lM41khGJNJhYZNZNJXYpwkNpGYXXZJXaGEsgqhv",
-        "L9S3WUazsI1Ill1lM41khGJNJhYZNZNJXYpwkFFJXkpNNXzUtcxqZ:"
-    ],
-    "share": "小明V.P.N免费帮您一键科学上网，马上下载：https://gitithub.com/xm19/blob/master",
-    "share_en": "Xiaoming VPN help you to access block sites using free VPN Servers. Download here: https://gitithub.com/xm19/blob/master/en"
+	"md": [
+		"ns01.iandroidapps.com",
+		"ns98.androidgithub.store",
+		"ns04.iandroidapps.com",
+		"ns34.eandroidsupport.com"
+	],
+	"about": "https://gitithub.com/xm19/blob/master/",
+	"valk": "0",
+	"tips": "提示：节点偶尔因特殊情况会不稳定，若无法使用请断开重连，感谢理解",
+	"tips_en": "Note: VPN consumes more electricity. Turn it off if not in use. It may unstable in Asia sometime. try to restart VPN if unavailable.",
+	"adpkg": "com.jackie.vpnservice",
+	"adtxt": "为了改进小明，最近上了一款VPN专用于测试新功能，支持全局代理。有兴趣的朋友可下载并给点意见",
+	"adtxten": "In order to improve Xiaoming, I published a new VPN dedicated to test new features, it supports global mode. If you are interested, you can download and give some advice.",
+	"adurl": "",
+	"adurlen": "",
+	"mco": "5",
+	"dlm": "2",
+	"mid": "G201903212058",
+	"msg": "维护不易，若喜欢的话，支持一下，谢谢~",
+	"mco_en": "10",
+	"mid_en": "G201903212058",
+	"msg_en": "If you like it, don't forget to support me, thx",
+	"aip": "irDxn109sI1Ill1lM41khGJNJhYZNZNJXYp~JZkJYZNkNkAYh9o.Od",
+	"about_en": "https://gitithub.com/xm19/blob/master/en",
+	"org": [
+		"NEBLI0qIsI1Ill1lM41khGJNJhYZNZNJXYpwZpFNpYFZXN1A2pnjXD",
+		"7T:OlhUksI1Ill1lM41khGJNJhYZNZNJXYpwFpGNNXJYGZdVl-vzC8",
+		":tgn3:RvsI1Ill1lM41khGJNJhYZNZNJXYpwNFhGJNGXNFz:NNBnPN"
+	],
+	"cls": [
+		":qp4Tk.4sI1Ill1lM41khGJNJhYZNZNJXYpwNJkFkGYpZZdNPoq:AA",
+		"eX917:cxsI1Ill1lM41khGJNJhYZNZNJXYpwkNpGYXXZJXaGEsgqhv",
+		"L9S3WUazsI1Ill1lM41khGJNJhYZNZNJXYpwkFFJXkpNNXzUtcxqZ:"
+	],
+	"share": "小明V.P.N免费帮您一键科学上网，马上下载：https://gitithub.com/xm19/blob/master",
+	"share_en": "Xiaoming VPN help you to access block sites using free VPN Servers. Download here: https://gitithub.com/xm19/blob/master/en"
 }
