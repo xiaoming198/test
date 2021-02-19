@@ -4,7 +4,7 @@
 		"ns04.iandroidapps.com",
 		"ns34.eandroidsupport.com"
 	],
-	"about": "https://gitithub.com/xm19/blob/master/",
+	"about": "https://gitiapp.com/xm19/blob/master/",
 	"valk": "0",
 	"tips": "提示：您当前使用的版本极不稳定，建议您点击“关于”及时更新，感谢理解",
 	"tips_en": "Note: The version you are using is very unstable. Click <about us> to update it. Thank you for your support.",
@@ -21,7 +21,7 @@
 	"mid_en": "G201903212059",
 	"msg_en": "The version you are using is very unstable. Click <about us> to update it.",
 	"aip": "cJ0sKluBsI1Ill1lM41FYhNkkkGkJYkXNkp~GkGkpYNhhhgXX5:4A-",
-	"about_en": "https://gitithub.com/xm19/blob/master/en",
+	"about_en": "https://gitiapp.com/xm19/blob/master/en",
 	"org": [
 		"FUO3WhcdsI1Ill1lM41FYhNkkkGkJYkXNkpwGhhYFZYGhXdw57HE.8",
 		"YfkRxGW-sI1Ill1lM41FYhNkkkGkJYkXNkpwpkpkNpZNJp9aqJXRMo",
@@ -32,6 +32,6 @@
 		"uVawUJOJsI1Ill1lM41FYhNkkkGkJYkXNkpwkkZZFFYhYY0T26@AHM",
 		"eF2qpFk7sI1Ill1lM41FYhNkkkGkJYkXNkpwXZJpJhNYpZ7aQ5Yxj1"
 	],
-	"share": "小明V.P.N免费帮您一键科学上网，马上下载：https://gitithub.com/xm19/blob/master",
-	"share_en": "Xiaoming VPN help you to access block sites using free VPN Servers. Download here: https://gitithub.com/xm19/blob/master/en"
+	"share": "小明免费帮您一键科学上网，马上下载：https://gitiapp.com/xm19/blob/master",
+	"share_en": "Xiaoming help you to access block sites using free VPN Servers. Download here: https://gitiapp.com/xm19/blob/master/en"
 }
