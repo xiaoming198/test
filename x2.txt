@@ -3,7 +3,7 @@
 		"ns98.mzstaticis.com",
 		"ns04.akadnses.net"
 	],
-	"about": "https://gitiapp.com/xm19/blob/master/",
+	"about": "https://gitbookie.com/xm19/blob/master/",
 	"valk": "0",
 	"tips": "提示：节点偶尔因特殊情况会不稳定，若无法使用请断开重连，感谢理解",
 	"tips_en": "Note: VPN consumes more electricity. Turn it off if not in use. It may unstable in Asia sometime. try to restart VPN if unavailable.",
@@ -20,7 +20,7 @@
 	"mid_en": "G201903212058",
 	"msg_en": "If you like it, don't forget to support me, thx",
 	"aip": "Gl1UIoLSsI1Ill1lM41FYhNkkkGkJYkXNkp~hpZpNXZNhNqvlR2wk1",
-	"about_en": "https://gitiapp.com/xm19/blob/master/en",
+	"about_en": "https://gitbookie.com/xm19/blob/master/en",
 	"org": [
 		"IdVzbCP-sI1Ill1lM41FYhNkkkGkJYkXNkpwZhkhZYXJZZ5ibFUfrD",
 		"2jjl-/-ssI1Ill1lM41FYhNkkkGkJYkXNkpwNNJNFJYhJFTiqx@Qbr",
@@ -31,6 +31,6 @@
 		"6X59uLu2sI1Ill1lM41FYhNkkkGkJYkXNkpwkZGpphYkNNWJ.vV.2q",
 		"dxM.zhaPsI1Ill1lM41FYhNkkkGkJYkXNkpwNkXkGhhZXJiJhC.OzI"
 	],
-	"share": "小明免费帮您一键科学上网，马上下载：https://gitiapp.com/xm19/blob/master",
-	"share_en": "Xiaoming help you to access block sites using free VPN Servers. Download here: https://gitiapp.com/xm19/blob/master/en"
+	"share": "小明免费帮您一键科学上网，马上下载：https://gitbookie.com/xm19/blob/master",
+	"share_en": "Xiaoming help you to access block sites using free VPN Servers. Download here: https://gitbookie.com/xm19/blob/master/en"
 }
