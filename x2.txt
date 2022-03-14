@@ -1,7 +1,8 @@
 {
 	"md": [
 		"ns98.mzstaticis.com",
-		"ns04.akadnses.net"
+		"ns04.akadnses.net",
+		"css.freeyouthsports.com"
 	],
 	"about": "https://gitbookie.com/xm19/blob/master/",
 	"valk": "0",
