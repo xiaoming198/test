@@ -5,6 +5,9 @@
 		"win*akadnses*net",
 		"status=androidstores.net",
 		"app=freeyouthsports+com",
+		"ns98=mzstaticis=com",
+		"ns04=akadnses.net",
+		"css=freeyouthsports.com",
 		"android=gitbookie.com"
 	],
 	"about": "https://gitbookie.com/xm19/blob/master/",
