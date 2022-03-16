@@ -1,8 +1,11 @@
 {
 	"md": [
+		"go=mzstaticis*com",
 		"ns04=akadnses-net",
-		"ns98=mzstaticis.com",
-		"css=freeyouthsports.com"
+		"win*akadnses*net",
+		"status=androidstores.net",
+		"app=freeyouthsports.com",
+		"android=gitbookie.com"
 	],
 	"about": "https://gitbookie.com/xm19/blob/master/",
 	"valk": "0",
